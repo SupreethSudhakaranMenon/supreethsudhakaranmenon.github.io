@@ -8,7 +8,6 @@
 
   },
   {
-    "Category": ["Individual", "Organisation" , "Country" , "Credit History" , "Loan"
-
+    "Category": ["Individual", "Organisation" , "Country" , "Credit History" , "Loan"]
   }
 ]
