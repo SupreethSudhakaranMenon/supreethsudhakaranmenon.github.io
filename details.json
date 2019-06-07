@@ -1,17 +1,14 @@
 [
   {
-    "name": "Binary",
+    "Value": ["Binary", "Nominal" , "Interval" , "Ratio"]
 
   },
   {
-    "name": "Nominal",
+    "Data": ["Numeric", "Character", "Date"]
 
   },
   {
-    "name": "Interval",
+    "Category": ["Individual", "Organisation" , "Country" , "Credit History" , "Loan"
 
-  },
-  {
-    "name": "Ratio"
   }
 ]
