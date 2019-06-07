@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Binary",
+
+  },
+  {
+    "name": "Nominal",
+
+  },
+  {
+    "name": "Interval",
+
+  },
+  {
+    "name": "Ratio"
+  }
+]
