@@ -13,3 +13,18 @@
         "carID": "ford123"
     }]
 }
+{
+	Value: [{
+		"ValueType" : "Binary",
+		"valueID"   : "binary"
+	}, {
+        "ValueType" : "Nominal",
+        "valueID"   : "nominal"
+    } , {
+        "ValueType" : "Interval",
+        "valueID"   :  "interval"
+    } , {
+        "ValueType": "Ratio",
+        "valueID": "ratio"
+      }]
+}
