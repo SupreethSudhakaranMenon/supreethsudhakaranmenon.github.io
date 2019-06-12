@@ -1,19 +1,4 @@
 {
-    Cars: [{
-        "CarType": "BMW",
-        "carID": "bmw123"
-    }, {
-        "CarType": "mercedes",
-        "carID": "merc123"
-    }, {
-        "CarType": "volvo",
-        "carID": "vol123r"
-    }, {
-        "CarType": "ford",
-        "carID": "ford123"
-    }]
-}
-{
 	Value: [{
 		"ValueType" : "Binary",
 		"valueID"   : "binary"
