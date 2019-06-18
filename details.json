@@ -1,15 +1,15 @@
 {
-	Value: [{
+    Value: [{
 		"ValueType" : "Binary",
 		"valueID"   : "binary"
-	}, {
-        "ValueType" : "Nominal",
-        "valueID"   : "nominal"
+    }, {
+        	"ValueType" : "Nominal",
+        	"valueID"   : "nominal"
     } , {
-        "ValueType" : "Interval",
-        "valueID"   :  "interval"
+        	"ValueType" : "Interval",
+        	"valueID"   :  "interval"
     } , {
-        "ValueType": "Ratio",
-        "valueID": "ratio"
+        	"ValueType": "Ratio",
+        	"valueID": "ratio"
       }]
 }
